@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\yanni\Desktop\INF3405-TP1\.metadata\.plugins\org.eclipse.jdt.core
+991977240.index
+3945896548.index
+1865797976.index
